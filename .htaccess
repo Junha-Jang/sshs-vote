@@ -1,0 +1,14 @@
+<Files ~ "\.txt">
+Order allow,deny
+#Deny from all
+</Files>
+
+<Files ~ "location.php">
+Order allow,deny
+#Deny from all
+</Files>
+
+<Files ~ "location_out.php">
+Order allow,deny
+#Deny from all
+</Files>
